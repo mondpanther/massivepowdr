@@ -4,7 +4,7 @@ bio:                'Home of load balancing'
 description:        "Keeping power balanced and clean"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://github.com/mondpanther/massivepowdr" # the base hostname & protocol for your site
 
 # Comments
 disqus_shortname:   default
